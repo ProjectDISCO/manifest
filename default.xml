@@ -495,6 +495,8 @@
 <project path="vendor/qcom" name="android_vendor_qcom" remote="disco" revision="lollipop" />
 <project path="vendor/broadcom" name="android_vendor_broadcom" remote="disco" revision="lollipop" />
 <project path="vendor/lge" name="android_vendor_lge" remote="disco" revision="lollipop" />
+<project path="vendor/moto" name="android_vendor_moto" remote="disco" revision="lollipop" />
+<project path="vendor/asus" name="android_vendor_asus" remote="disco" revision="lollipop" />
 <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="disco" revision="lollipop" />
 <project path="frameworks/base" name="android_frameworks_base" remote="disco" revision="lollipop" />
 <project path="device/asus/flo" name="android_device_asus_flo" remote="disco" revision="lollipop" />
