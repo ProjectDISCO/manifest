@@ -511,7 +511,7 @@ fetch="https://github.com/projectdisco/" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
 <!-- Nexus 4 prebuilt kernel -->
-<project path="device/lge/mako-kernel" name="device_lge_mako-kernel" groups="device,mako" remote="disco" revision="lollipop" />
+<project path="device/lge/mako-kernel" name="android_device_lge_mako-kernel" groups="device,mako" remote="disco" revision="lollipop" />
 
  <!-- Our repos -->
 <project path="vendor/disco" name="android_vendor_disco" remote="disco" revision="lollipop" />
