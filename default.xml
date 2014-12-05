@@ -523,6 +523,5 @@ fetch="https://github.com/projectdisco/" />
 <project path="device/asus/flo" name="android_device_asus_flo" remote="disco" revision="lollipop" />
 <project path="device/lge/hammerhead" name="android_device_lge_hammerhead" remote="disco" revision="lollipop" />
 <project path="device/lge/mako" name="android_device_lge_mako" remote="disco" revision="lollipop" />
-<project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="disco" revision="lollipop" />
 <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="disco" revision="lollipop" />
 </manifest>
