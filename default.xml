@@ -356,7 +356,6 @@ fetch="https://github.com/projectdisco/" />
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" />
   <project path="packages/apps/ContactsCommon" name="platform/packages/apps/ContactsCommon" />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" />
-  <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" />
   <!--project path="packages/apps/Email" name="platform/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" /> -->
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
@@ -378,8 +377,8 @@ fetch="https://github.com/projectdisco/" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
-  <!--project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" /> -->
-  <!--project path="packages/apps/Settings" name="platform/packages/apps/Settings" /> -->
+  <!--project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" /> REMOVE IF DISABLE SEARCHBAR
+  FEATURE IS NOT WORKING-->
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <!--project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" /> -->
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
