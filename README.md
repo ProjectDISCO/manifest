@@ -38,7 +38,7 @@ Repositories:
 
 Before you continue --> run this in the terminal
 ----------------------------------------
-    ~/bin/repo init -u git://github.com/ProjectDISCO/manifest.git -b lollipop && ~/bin/repo sync -c
+    ~/bin/repo init -u git://github.com/ProjectDISCO/manifest.git -b pre && ~/bin/repo sync -c
 
 *PLEASE NOTE THAT YOU MUST USE THE -f flag when repo syncing/initializing if you want to sync with our default -j4 setup as android.googlesource seems to like to reject your requests if you set your -jflag too high. 
 if you wish to avoid this issue run it repo sync -j1 otherwise -f (force) is reccomended so it will resync the repos it gets error codes on. Thank you and have a nice day.*
@@ -61,7 +61,7 @@ Enter the number of the build you want to start and press enter
 
 Build the Code:
 
-    make lokum
+    make otapackage
 
 ---------------
 
