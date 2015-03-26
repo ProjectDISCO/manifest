@@ -300,7 +300,6 @@
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" groups="pdk-cw-fs" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" />
   <project path="frameworks/support" name="platform/frameworks/support" groups="pdk-cw-fs" />
-  <project path="frameworks/testing" name="platform/frameworks/testing" groups="pdk-cw-fs" />
   <project path="frameworks/volley" name="platform/frameworks/volley" groups="pdk-cw-fs" />
   <project path="frameworks/webview" name="platform/frameworks/webview" groups="pdk-cw-fs" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" groups="pdk-cw-fs" />
@@ -444,14 +443,14 @@
  <!-- Our repos -->
  
   <project path="vendor/disco" name="android_vendor_disco" remote="disco" revision="pre" />
-  <project path="vendor/qcom" name="android_vendor_qcom" remote="disco" revision="pre" />
-  <project path="vendor/broadcom" name="android_vendor_broadcom" remote="disco" revision="pre" />
-  <project path="vendor/lge" name="android_vendor_lge" remote="disco" revision="pre" />
+  <project path="vendor/qcom" name="android_vendor_qcom" remote="disco" revision="lollipop" />
+  <project path="vendor/broadcom" name="android_vendor_broadcom" remote="disco" revision="lollipop" />
+  <project path="vendor/lge" name="android_vendor_lge" remote="disco" revision="lollipop" />
   <project path="vendor/moto" name="android_vendor_moto" remote="disco" revision="lollipop" />
   <project path="vendor/asus" name="android_vendor_asus" remote="disco" revision="lollipop" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="disco" revision="pre" />
   <project path="frameworks/base" name="android_frameworks_base" remote="disco" revision="pre" />
-  <project path="device/asus/flo" name="android_device_asus_flo" remote="disco" revision="p" />
+  <project path="device/asus/flo" name="android_device_asus_flo" remote="disco" revision="lollipop" />
   <project path="device/lge/hammerhead" name="android_device_lge_hammerhead" remote="disco" revision="pre" />
   <project path="device/lge/mako" name="android_device_lge_mako" remote="disco" revision="pre" />
   <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="disco" revision="pre" />
