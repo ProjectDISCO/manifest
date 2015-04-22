@@ -361,7 +361,7 @@
   <project path="packages/apps/Email" name="platform/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
-  <project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" />
+  <!-- project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" /-->
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
@@ -457,4 +457,6 @@
   <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="disco" revision="cm-12.0" />
   <project path="packages/apps/Browser" name="android_packages_apps_Browser" remote="disco" revision="cm-12.1" />
   <project path="external/proguard" name="android_external_proguard" remote="disco" revision="lollipop" groups="pdk-java,tradefed" />
+  <project path="packages/apps/InCallUI" name="android_packages_apps_incallui" remote="disco" revision="pre" />
+
 </manifest>
