@@ -1,3 +1,8 @@
+Deprecated!!!
+===================
+this branch was for android-5.1.0. after rebasing the rom on android-5.1.1 we deleted/modified some repos. you won't be able to sync lp-5.0-OLD and lp-5.1-OLD because of deleted repos (we had several reasons to delete them.). in short, deleted repos won't be downloaded if you use lp-5.0-OLD/lp-5.1-OLD branch for manifest. (but x-OLD sources are still alive in other repos like settings). if you want to sync x-OLD branch get deleted repos from https://github.com/pd-old (we pushed deleted repos to there) and edit manifest yourself.
+
+
 Project DISCO Source
 ===================
 To get started with project DISCO sources, you'll need to get
